@@ -18,18 +18,18 @@ Caso: Abogabot Descripción:
 
 ## Se presentan como evidencia de práctica 
 
-- [Análisis Requerimientos](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/1.-Reqierimientos.doc) - Archivo Word
+## [Análisis Requerimientos](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/1.-Reqierimientos.doc) - Archivo Word
 
 
-- [Buyer Persona](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/buyerPersona.png?raw=true)
+## [Buyer Persona](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/buyerPersona.png?raw=true)
  
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/buyerPersona.png?raw=true)
  
-- [Público Objetivo](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/3.-%20P%C3%BAblico%20objetivo.png?raw=true)
+## [Público Objetivo](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/3.-%20P%C3%BAblico%20objetivo.png?raw=true)
  
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/3.-%20P%C3%BAblico%20objetivo.png?raw=true)
  
-- [User Experience](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/tree/main/UX)
+## [User Experience](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/tree/main/UX)
 
 - Pantalla 1
  
@@ -47,7 +47,7 @@ Caso: Abogabot Descripción:
 
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/UX/4.%20-%20WF4.png?raw=true)
  
-- [User Experience](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/tree/main/UI)
+## [User Experience](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/tree/main/UI)
 
 - Pantalla 1
 
