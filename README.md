@@ -22,7 +22,7 @@ Caso: Abogabot Descripción:
 
 
 - [Buyer Persona](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/buyerPersona.png?raw=true)
-- 
+ 
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/buyerPersona.png?raw=true)
 - [Público Objetivo](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/3.-%20P%C3%BAblico%20objetivo.png?raw=true)
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/3.-%20P%C3%BAblico%20objetivo.png?raw=true)
