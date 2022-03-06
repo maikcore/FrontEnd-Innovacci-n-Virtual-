@@ -24,23 +24,43 @@ Caso: Abogabot Descripción:
 - [Buyer Persona](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/buyerPersona.png?raw=true)
  
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/buyerPersona.png?raw=true)
+ 
 - [Público Objetivo](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/3.-%20P%C3%BAblico%20objetivo.png?raw=true)
+ 
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/3.-%20P%C3%BAblico%20objetivo.png?raw=true)
+ 
 - [User Experience](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/tree/main/UX)
+
 - Pantalla 1
+ 
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/UX/4.%20-%20WF1.png?raw=true)
+ 
 - Pantalla 2
+
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/UX/4.%20-%20WF2.png?raw=true)
+ 
 - Pantalla 3
+
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/UX/4.%20-%20WF3.png?raw=true)
+ 
 - Pantalla 4
+
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/UX/4.%20-%20WF4.png?raw=true)
+ 
 - [User Experience](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/tree/main/UI)
+
 - Pantalla 1
+
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/UI/5.%20-%20UI1.png?raw=true)
+ 
 - Pantalla 2
+
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/UI/5.%20-%20UI2.png?raw=true)
+ 
 - Pantalla 3
+
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/UI/5.%20-%20UI3.png?raw=true)
+ 
 - Pantalla 4
+
  ![N|Solid](https://github.com/maikcore/FrontEnd-Innovacci-n-Virtual-/blob/main/UI/5.%20-%20UI4.png?raw=true)
